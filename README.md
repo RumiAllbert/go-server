@@ -1,4 +1,5 @@
 Simple Web Server in Golang
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 ===========================
 This is a simple web server written in Golang. It is a simple web server that
 can be used to serve static files.
